@@ -52,10 +52,10 @@ The following is just a selection of languages and tools that I have worked with
     <a href="">
         <img alt="C#" src="https://img.shields.io/badge/C%23-8F17C1?style=for-the-badge&logo=csharp&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://www.javascript.com/">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=JavaScript&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://www.python.org/">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </a>
 </p>
