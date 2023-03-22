@@ -46,10 +46,10 @@ The following is just a selection of languages and tools that I have worked with
     </a>
 </p>
 <p>
-    <a href="">
+    <a href="https://www.java.com/en/">
         <img alt="Java" src="https://img.shields.io/badge/Java-F29111?style=for-the-badge&logo=java&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img alt="C#" src="https://img.shields.io/badge/C%23-8F17C1?style=for-the-badge&logo=csharp&logoColor=white" />
     </a>
     <a href="https://www.javascript.com/">
@@ -64,13 +64,13 @@ The following is just a selection of languages and tools that I have worked with
 <div align="center">
 <h2>Automation Tools</h2>
 <p>
-    <a href="">
+    <a href="https://playwright.dev/">
         <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://www.selenium.dev/">
         <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
     </a>
-    <a href="">
+    <a href="https://webdriver.io/">
         <img alt="WebDriverIO" src="https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" />
     </a>
     <a href="https://gatling.io/">
