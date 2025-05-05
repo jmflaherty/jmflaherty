@@ -23,7 +23,7 @@ Since 2010 I have helped numerous companies in various industries by providing t
 <h1>Tools 🛠️</h1>
 <div align="center">
 <p>
-The following is just a selection of languages and tools that I have worked with or am I familiar with.
+The following is just a selection of languages and tools that I have worked or am I familiar with.
 </p>
 </div>
 
