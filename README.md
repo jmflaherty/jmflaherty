@@ -13,7 +13,7 @@
 
 <div align="center">
 <p>
-I am Juan Manuel Flaherty, a Software Developer focused on quality and efficient development environments.
+I am Juan Manuel Flaherty, an SDET Architect focused on quality and efficient development environments.
 </p>
 <p>
 Since 2010 I have helped numerous companies in various industries by providing tools, process revisions, training, and advisory to improve everything quality related.
